@@ -1,0 +1,29 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package javaapplication9;
+
+/**
+ *
+ * @author zaida
+ */
+public class ImplementacioJavaEx1{
+    private static final String MSG_1 = "**********\n**********\n**********\n**********\n**********\n**********\n**********\n**********\n**********\n**********\n ";
+    private static final String MSG_2 = "         *\n        * *\n      * * * *\n    * * * * * *\n  * * * * * * * *\n* * * * * * * * * *\n ";
+    
+    public static void main(String[] args) {
+        //ApartadoA
+        System.out.println("Zaida");
+        //ApartadoB
+        System.out.println("Zaida Morales");
+        //ApartadoC
+        System.out.println("Zaida\nMorales");
+        //ApartadoD
+        System.out.println(MSG_1);
+        //ApartadoE
+        System.out.println(MSG_2);
+        //ApartadoF
+    }
+    
+}
