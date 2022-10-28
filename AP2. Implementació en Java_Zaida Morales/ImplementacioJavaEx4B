@@ -1,0 +1,51 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package javaapplication13;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author zaida
+ */
+public class ImplementacioJavaEx4B {
+
+    public static final String MSG_1 = "Introdueix un numero del 1 al 12:";
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(MSG_1);
+        int numMonth;
+        numMonth = sc.nextInt();
+        switch (numMonth) {
+            case 1 ->
+                System.out.println("Gener");
+            case 2 ->
+                System.out.println("Febrer");
+            case 3 ->
+                System.out.println("Març");
+            case 4 ->
+                System.out.println("Abril");
+            case 5 ->
+                System.out.println("Maig");
+            case 6 ->
+                System.out.println("Juny");
+            case 7 ->
+                System.out.println("Juliol");
+            case 8 ->
+                System.out.println("Agost");
+            case 9 ->
+                System.out.println("Setembre");
+            case 10 ->
+                System.out.println("Octubre");
+            case 11 ->
+                System.out.println("Novembre");
+            case 12 ->
+                System.out.println("Decembre");
+            default ->
+                System.out.println("Error");
+        }
+    }
+}
