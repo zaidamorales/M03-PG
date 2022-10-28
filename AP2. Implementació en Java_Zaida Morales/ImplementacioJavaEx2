@@ -1,0 +1,20 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package javaapplication10;
+
+public class ImplementacioJavaEx2 {
+
+    /**
+     *
+     * Nom: Zaida Cognoms: Morales Timoneda INS Manuel Vázquez Montalbán Data
+     * d’edició: 25/10/2022 Nom del cicle formatiu: ASIX Nom del mòdul:
+     * Programació
+     *
+     */
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+
+    }
+}
