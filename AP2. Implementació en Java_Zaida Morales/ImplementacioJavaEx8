@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author zaida
  */
-public class ImplementacioJava8 {
+public class ImplementacioJavaEx8 {
 
     public static final String MSG_1 = "Introduce un numero:";
     public static final String MSG_2 = "Introduce un apartado:";
