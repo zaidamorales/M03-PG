@@ -1,0 +1,39 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package javaapplication18;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author zaida
+ */
+public class ImplementacioJavaEx9 {
+
+    public static final String MSG_1 = "Introduce un numero:";
+    public static final String MSG_2 = "La media de las notas es ";
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        float num = 1, sum = 0;
+        int cont = 0;
+        System.out.println(MSG_1);
+        num = sc.nextInt();
+
+        while (num > 0) {
+            System.out.println(MSG_1);
+            num = sc.nextInt();
+            if (num > 0) {
+                sum = sum + num;
+                cont++;
+            }
+        }
+
+        if (cont > 0) {
+            System.out.println(MSG_2 + sum / cont);
+        }
+
+    }
+}
