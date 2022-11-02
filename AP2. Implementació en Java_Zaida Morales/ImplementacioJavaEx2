@@ -8,11 +8,14 @@ public class ImplementacioJavaEx2 {
 
     /**
      *
-     * Nom: Zaida Cognoms: Morales Timoneda INS Manuel Vázquez Montalbán Data
-     * d’edició: 25/10/2022 Nom del cicle formatiu: ASIX Nom del mòdul:
-     * Programació
+     * Nom: Zaida Cognoms: Morales Timoneda 
+     * INS Manuel Vázquez Montalbán 
+     * Data d’edició: 25/10/2022 
+     * Nom del cicle formatiu: ASIX 
+     * Nom del mòdul: Programació
      *
-     */
+     **/
+     
     public static void main(String[] args) {
         System.out.println("Hello World");
 
