@@ -21,8 +21,8 @@ public class ImplementacioJavaEx7 {
     private static final String MSG_1 = "Introduce un numero del 1 al 4:";
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
         int i = 0, num, a = 100;
+        Scanner sc = new Scanner(System.in);
         System.out.println(MSG_1);
         num = sc.nextInt();
 
