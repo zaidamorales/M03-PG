@@ -22,9 +22,9 @@ public class ImplementacioJavaEx9 {
     private static final String MSG_2 = "La media de las notas es ";
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
         float num = 1, sum = 0;
         int cont = 0;
+        Scanner sc = new Scanner(System.in);
         System.out.println(MSG_1);
         num = sc.nextInt();
 
