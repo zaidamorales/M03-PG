@@ -20,9 +20,9 @@ public class ImplementacioJavaEx5 {
     private static final String MSG_1 = "Introduce un año:";
 
     public static void main(String[] args) {
+        int año;
         Scanner sc = new Scanner(System.in);
         System.out.println(MSG_1);
-        int año;
         año = sc.nextInt();
 
         if (año % 4 == 0) {
