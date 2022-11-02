@@ -12,9 +12,6 @@ package catinstitutmvm.pkg2;
  * "Talavera Gamez"; "INS Manuel Vázquez Montalbán"; "27/10/2022"; "ASIX";
  * "Fonaments de la programació";
  */
-public class APActivitat2 {
-
-}
 
 //añadimos al codigo la parte de Hola Mon ya que Iker no lo añadió
 
