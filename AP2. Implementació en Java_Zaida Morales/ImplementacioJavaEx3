@@ -6,10 +6,16 @@ package javaapplication11;
 
 import java.util.Scanner;
 
-/**
- *
- * @author zaida
- */
+ /**
+     *
+     * Nom: Zaida Cognoms: Morales Timoneda 
+     * INS Manuel Vázquez Montalbán 
+     * Data d’edició: 25/10/2022 
+     * Nom del cicle formatiu: ASIX 
+     * Nom del mòdul: Programació
+     *
+     **/
+     
 public class ImplementacioJavaEx3 {
 
     private static final String MSG_1 = "Introdueix un numero: ";
