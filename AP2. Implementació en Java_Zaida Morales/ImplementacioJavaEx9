@@ -6,14 +6,20 @@ package javaapplication18;
 
 import java.util.Scanner;
 
-/**
- *
- * @author zaida
- */
+ /**
+     *
+     * Nom: Zaida Cognoms: Morales Timoneda 
+     * INS Manuel Vázquez Montalbán 
+     * Data d’edició: 25/10/2022 
+     * Nom del cicle formatiu: ASIX 
+     * Nom del mòdul: Programació
+     *
+     **/
+     
 public class ImplementacioJavaEx9 {
 
-    public static final String MSG_1 = "Introduce un numero:";
-    public static final String MSG_2 = "La media de las notas es ";
+    private static final String MSG_1 = "Introduce un numero:";
+    private static final String MSG_2 = "La media de las notas es ";
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
