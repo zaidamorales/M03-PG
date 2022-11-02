@@ -1,0 +1,26 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+ 
+ //Correción codigo Iker
+ //ejercicio 2
+ 
+package catinstitutmvm.pkg2;
+
+/**
+ * "Talavera Gamez"; "INS Manuel Vázquez Montalbán"; "27/10/2022"; "ASIX";
+ * "Fonaments de la programació";
+ */
+public class APActivitat2 {
+
+}
+
+//añadimos al codigo la parte de Hola Mon ya que Iker no lo añadió
+
+public class AP2_Act2_ {
+    public static void main(String[] args) {
+       System.out.println("Hello World");
+      
+   }
+}
