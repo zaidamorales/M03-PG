@@ -22,8 +22,8 @@ public class ImplementacioJavaEx6 {
     private static final String MSG_2 = "Introduce un mes:";
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
         int año, mes;
+        Scanner sc = new Scanner(System.in);
         System.out.println(MSG_1);
         año = sc.nextInt();
         System.out.println(MSG_2);
