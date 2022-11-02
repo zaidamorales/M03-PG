@@ -24,8 +24,8 @@ public class ImplementacioJavaEx8 {
     private static final String MSG_4 = "Introduce un numero";
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
         int num, usu, sum = 0, apartado, cant, cont = 0;
+        Scanner sc = new Scanner(System.in);
         System.out.println(MSG_2);
         apartado = sc.nextInt();
 
