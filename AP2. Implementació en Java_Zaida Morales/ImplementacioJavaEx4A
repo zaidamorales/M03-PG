@@ -21,9 +21,9 @@ public class ImplementacioJavaEx4A {
     private static final String MSG_1 = "Introdueix un numero del 1 al 12:";
 
     public static void main(String[] args) {
+        int numMonth;
         Scanner sc = new Scanner(System.in);
         System.out.println(MSG_1);
-        int numMonth;
         numMonth = sc.nextInt();
         if (numMonth >= 1 && numMonth <= 12) {
             switch (numMonth) {
